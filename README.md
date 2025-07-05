@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sourasish Samadder
-- 👀 I’m interested in web development
+- 👀 I’m interested in software development
 - 🌱 I’m currently pursuing Btech in CSE(DS)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
