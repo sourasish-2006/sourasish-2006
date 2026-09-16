@@ -65,3 +65,5 @@
 <!-- Using an email icon since you provided your email previously -->
 <a href="mailto:samaddersourasish2006@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="30" width="40" /></a>
 </p>
+
+$ echo "Thanks for visiting. Let's build something great."
