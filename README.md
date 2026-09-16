@@ -66,7 +66,7 @@
 <a href="mailto:samaddersourasish2006@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sourasish-2006/sourasish-2006/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
