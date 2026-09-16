@@ -12,8 +12,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently building scalable web applications using the **MERN Stack** and integrating AI models.
-- 🌱 I’m currently deep-diving into **Machine Learning**, preparing for **GATE CS 2027**, and continuously sharpening my **Data Structures & Algorithms** in **C++**.
-- 👯 I’m actively collaborating in open-source programs like **GSSoC** and **NSoC**.
+- 🌱 I’m currently deep-diving into **Machine Learning**, preparing for **CAT 2027**, and continuously sharpening my **Data Structures & Algorithms** in **Java**.
 - 💬 Ask me about **React, NodeJS, Tailwind CSS, MongoDB, and jQuery**.
 - ⚡ Fun fact: I love participating in hackathons (like SIH) and exploring emerging tech through bootcamps!
 
