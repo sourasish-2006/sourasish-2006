@@ -66,4 +66,14 @@
 <a href="mailto:samaddersourasish2006@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sourasish-2006/sourasish-2006/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sourasish-2006/sourasish-2006/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sourasish-2006/sourasish-2006/output/dist/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 $ echo "Thanks for visiting. Let's build something great."
