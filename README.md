@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sourasish Samadder</h1>
-<h3 align="center">A passionate Full-Stack Developer, AI Enthusiast & Open Source Contributor</h3>
+<h3 align="center">Full-Stack Developer & ML Enthusiast</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Student;Full-Stack+MERN+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Student;Full-Stack+MERN+Developer;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
