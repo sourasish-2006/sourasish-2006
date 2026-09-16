@@ -39,19 +39,8 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Monastery 360** | A digital heritage 3D mapping platform built for the Smart India Hackathon (SIH) 2025. | `React`, `NodeJS`, `Tailwind CSS`, `MongoDB` |
-| **Facial Emotion App** | An AI-driven application integrating machine learning models to detect and analyze facial expressions. | `Python`, `AI/ML APIs` |
-| **Netflix Clone** | A full-stack web application showcasing modern frontend architecture and responsive design. | `MERN Stack` |
-
----
-
 ### 🏆 Achievements & Open Source
 
-- 🌟 **Open Source Contributor:** GirlScript Summer of Code (GSSoC '25 & '26), Nexus Spring of Code (NSoC '26), Winter of Code 5.0.
 - 🏅 **Certifications:** Postman API Fundamentals Student Expert.
 - 🧠 **Training:** Completed AI Agents Vibe Coding course (Google x Kaggle) & specialized tech bootcamps at NIT Durgapur and MAKAUT.
 
