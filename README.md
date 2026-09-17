@@ -1,231 +1,576 @@
-<h1 align="center">Hi 👋, I'm Sourasish Samadder</h1>
+<!-- ========================================================= -->
+<!--                    SOURASISH SAMADDER                    -->
+<!-- ========================================================= -->
 
-<h3 align="center">Full-Stack Developer & ML Enthusiast</h3>
+<div align="center">
 
-<p align="center">
+# 👋 Hi, I'm **Sourasish Samadder**
+
+### `Full-Stack Developer` • `ML Enthusiast` • `Problem Solver`
+
+<p>
   <a href="https://sourasish-samadder.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_My_Website-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sourasish-samadder-48b61432a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Full-Stack+MERN+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+%26+Intelligent+Applications" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
-## 🌐 My Portfolio
-
-<p align="center">
-  <a href="https://sourasish-samadder.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀_EXPLORE_MY_PORTFOLIO-sourasish--samadder.vercel.app-111827?style=for-the-badge&labelColor=3B82F6" alt="Visit Portfolio"/>
-  </a>
-</p>
-
-<p align="center">
-  <b>Explore my projects, skills, achievements, and developer journey.</b>
-</p>
-
-<p align="center">
-  <a href="https://sourasish-samadder.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-22C55E?style=flat-square" alt="Portfolio Live"/>
-  </a>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🔭 Currently building scalable web applications using the **MERN Stack** and integrating AI models.
-- 🌱 Currently deep-diving into **Machine Learning**, preparing for **CAT 2027**, and continuously sharpening my **Data Structures & Algorithms** in **Java**.
-- 💬 Ask me about **React, Node.js, Tailwind CSS, MongoDB, and jQuery**.
-- ⚡ Fun fact: I love participating in **hackathons like SIH** and exploring emerging technologies through bootcamps.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 💻 Languages
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-</p>
-
-### 🌐 Frontend
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
-</p>
-
-### ⚙️ Backend & Database
-
-<p align="left">
-  <img src="https://img.shields.io/badge/NodeJS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-</p>
-
-### 🧠 AI / ML / Data Science
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Data_Science-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Data Science"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-</p>
-
-### 🔧 Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🌊 Flash Flood Prediction System
-
-An ML-powered flood-risk prediction system designed for vulnerable hilly regions.
-
-**Key Features:**
-
-- 🤖 Machine Learning-based flood-risk prediction
-- 🌧️ Weather and environmental data integration
-- 🗺️ Interactive flood-risk map
-- 📍 Location-based risk visualization
-- 🚨 Evacuation route suggestions
-- 🏥 Nearby hospitals and transportation
-- 📡 IoT sensor integration for additional real-time data
-
----
-
-### 🛕 Monastery360
-
-An immersive digital tourism platform designed to showcase the cultural and spiritual heritage of Sikkim.
-
-**Focus Areas:**
-
-- 🌐 Interactive virtual experiences
-- 🗺️ Digital monastery exploration
-- 📱 Responsive web experience
-- 🤖 AI-powered features
-- 🏔️ Cultural heritage visualization
-
----
-
-### 📊 Student Performance Analysis
-
-A Data Science project focused on exploring and analyzing student performance data.
-
-**Technologies:**
-
-`Python` `Pandas` `NumPy` `Matplotlib` `Data Analysis` `EDA`
-
----
-
-## 🏆 Achievements & Open Source
-
-- 🏅 **Certification:** Postman API Fundamentals Student Expert
-- 🧠 **Training:** Completed AI Agents Vibe Coding course by **Google × Kaggle**
-- 🎓 **Bootcamps:** Participated in specialized technology bootcamps at **NIT Durgapur** and **MAKAUT**
-- 💻 **Hackathons:** Actively participate in hackathons and technology competitions
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourasish-2006&show_icons=true&theme=radium&hide_border=true" alt="Sourasish's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourasish-2006&theme=radium&hide_border=true" alt="Sourasish's GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourasish-2006&layout=compact&theme=radium&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
-
----
-
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sourasish-2006/sourasish-2006/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://sourasish-samadder.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/sourasish-samadder-48b61432a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
   <a href="mailto:samaddersourasish2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=900&color=3B82F6&center=true&vCenter=true&width=850&lines=B.Tech+CSE+Student;Full-Stack+MERN+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Web+Applications;Exploring+Intelligent+Systems;Turning+Ideas+Into+Working+Products" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=sourasish-2006&label=PROFILE%20VIEWS&color=3B82F6&style=for-the-badge" />
+
+</div>
+
 ---
 
-## 💻 Developer Philosophy
+# 🌐 Developer Portfolio
 
-```text
-> whoami
+<div align="center">
 
-Sourasish Samadder
+### 🚀 **My Digital Identity**
 
-> mission
+<a href="https://sourasish-samadder.vercel.app/">
 
-Build. Learn. Solve. Repeat.
+<img src="https://img.shields.io/badge/🚀_EXPLORE_MY_PORTFOLIO-sourasish--samadder.vercel.app-111827?style=for-the-badge&labelColor=3B82F6" />
 
-> interests
+</a>
 
-Full-Stack Development
-Artificial Intelligence
-Machine Learning
-Data Science
-Problem Solving
+<br/><br/>
 
-> status
+**Projects • Skills • Experience • Achievements • Developer Journey**
 
-Always learning. Always building.
+</div>
+
+> My portfolio is built as an interactive digital experience using modern frontend technologies, animation systems and responsive UI engineering.
+
+---
+
+# 👨‍💻 About Me
+
+```typescript
+const sourasish = {
+    name: "Sourasish Samadder",
+    role: "Full-Stack Developer & ML Enthusiast",
+    education: "B.Tech in Computer Science & Engineering",
+
+    interests: [
+        "Full-Stack Development",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Science",
+        "Data Structures & Algorithms",
+        "System Design",
+        "Creative Web Experiences"
+    ],
+
+    currentlyBuilding: [
+        "Scalable Web Applications",
+        "AI/ML-powered Solutions",
+        "Interactive Developer Experiences"
+    ],
+
+    mindset: "Build → Break → Learn → Rebuild"
+};
 ```
 
 ---
 
-<p align="center">
+# ⚡ What I Do
 
-### 🌐 Explore My Portfolio
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Full-Stack Development
+
+Building modern web applications with:
+
+- React
+- Next.js
+- Node.js
+- Express.js
+- MongoDB
+- Firebase
+- REST APIs
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI / Machine Learning
+
+Exploring intelligent systems through:
+
+- Python
+- Machine Learning
+- Data Analysis
+- NumPy
+- Pandas
+- Model Integration
+- AI-powered applications
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🧠 Computer Science
+
+Strengthening fundamentals in:
+
+- Data Structures
+- Algorithms
+- OOP
+- DBMS
+- Operating Systems
+- Computer Networks
+- Discrete Mathematics
+
+</td>
+
+<td>
+
+### 🚀 Engineering
+
+Interested in:
+
+- Scalable architecture
+- API design
+- Developer tooling
+- Performance optimization
+- Cloud deployment
+- Automation
+- System thinking
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧰 Technology Arsenal
+
+## 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,sql" />
+</p>
+
+---
+
+## 🎨 Frontend Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
+
+**Frontend Focus**
+
+`Responsive Design` • `Component Architecture` • `Animation` • `UX` • `Performance`
+
+---
+
+## ⚙️ Backend & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+</p>
+
+**Backend Focus**
+
+`REST APIs` • `Authentication` • `API Integration` • `Server Architecture`
+
+---
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase" />
+</p>
+
+---
+
+## 🤖 AI / ML / Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
+</p>
+
+```text
+Python
+ ├── NumPy
+ ├── Pandas
+ ├── Matplotlib
+ ├── Exploratory Data Analysis
+ ├── Machine Learning
+ └── AI Integration
+```
+
+---
+
+## 🛠️ Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+</p>
+
+---
+
+# 🏗️ Engineering Capabilities
+
+<div align="center">
+
+| Domain | Technologies / Concepts |
+|---|---|
+| **Frontend** | React • Next.js • Tailwind CSS • JavaScript |
+| **Backend** | Node.js • Express.js • REST APIs |
+| **Database** | MongoDB • MySQL • SQLite • Firebase |
+| **Programming** | C++ • Java • Python • JavaScript • SQL |
+| **AI / ML** | Python • NumPy • Pandas • PyTorch • ML |
+| **DevOps / Deployment** | Git • GitHub • Vercel |
+| **API Development** | REST • Postman • Third-party APIs |
+| **Core CS** | DSA • DBMS • OS • CN • OOP |
+| **Creative Web** | Animations • Interactive UI • Motion Design |
+
+</div>
+
+---
+
+# 🚀 Featured Engineering Projects
+
+## 🌊 Flash Flood Prediction System
+
+> **Machine Learning + Geospatial Visualization + Disaster Management**
+
+A technology-driven flood-risk prediction platform designed for vulnerable hilly regions.
+
+### Architecture
+
+```text
+Historical NASA Data
+        │
+        ▼
+   Data Processing
+        │
+        ▼
+   ML Prediction Model
+        │
+        ▼
+  Flood Risk Probability
+        │
+        ├───────────────┐
+        ▼               ▼
+ Interactive Map    Risk Analysis
+        │
+        ├───────────────┐
+        ▼               ▼
+ Evacuation Routes   Safe Locations
+        │
+        ├───────────────┐
+        ▼               ▼
+ Hospitals        Transportation
+        │
+        ▼
+ Future IoT Sensor Integration
+```
+
+### Core Features
+
+- 🤖 ML-based flood-risk prediction
+- 🗺️ Interactive risk visualization
+- 📍 Location-based analysis
+- 🌧️ Weather data integration
+- ⛰️ Elevation data
+- 🚨 Evacuation route suggestions
+- 🏥 Nearby hospitals
+- 🚉 Transportation information
+- 📡 IoT sensor integration roadmap
+
+**Focus:** `Machine Learning` `Geospatial Data` `APIs` `Risk Prediction` `Interactive Maps`
+
+---
+
+# 🛕 Monastery360
+
+> **Digital Tourism + Immersive Web + AI**
+
+A digital platform designed to showcase the cultural and spiritual heritage of Sikkim.
+
+### Technology Architecture
+
+```text
+                    Monastery360
+                         │
+        ┌────────────────┼────────────────┐
+        │                │                │
+        ▼                ▼                ▼
+     Frontend         Backend             AI
+        │                │                │
+ React / Next.js    Node / Express     AI Models
+        │                │                │
+ Tailwind / Motion   MongoDB / Firebase   │
+        │                │                │
+        └────────────────┼────────────────┘
+                         │
+                         ▼
+                  Cloud Deployment
+```
+
+### Highlights
+
+- 🌐 Immersive digital experiences
+- 🗺️ Interactive exploration
+- 🏔️ Cultural heritage visualization
+- 🤖 AI-powered features
+- 📱 Responsive interface
+- ☁️ Cloud-ready architecture
+
+---
+
+# 📊 Student Performance Analysis
+
+> **Data Science + Exploratory Data Analysis**
+
+A data analysis project focused on understanding student performance patterns.
+
+### Pipeline
+
+```text
+Raw Dataset
+     ↓
+Data Cleaning
+     ↓
+Exploratory Data Analysis
+     ↓
+Statistical Analysis
+     ↓
+Visualization
+     ↓
+Insights
+```
+
+**Stack**
+
+`Python` `Pandas` `NumPy` `Matplotlib` `EDA`
+
+---
+
+# 🧪 Creative Engineering
+
+## 🎆 Digital Firework
+
+A browser-based interactive experiment built with:
+
+`HTML` `CSS` `JavaScript` `DOM` `Animation`
+
+The project transforms a simple webpage into an interactive digital fireworks experience.
+
+---
+
+# 🏆 Achievements & Learning
+
+### 🏅 Certification
+
+**Postman API Fundamentals Student Expert**
+
+### 🧠 AI Training
+
+Completed **AI Agents Vibe Coding — Google × Kaggle**
+
+### 🎓 Technical Bootcamps
+
+Participated in specialized technology bootcamps at:
+
+- NIT Durgapur
+- MAKAUT
+
+### 💻 Hackathons
+
+Actively exploring hackathons and technology competitions, including **Smart India Hackathon (SIH)**.
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sourasish-2006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sourasish-2006&theme=tokyonight&hide_border=true" width="49%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourasish-2006&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="42%" />
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sourasish-2006/sourasish-2006/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+
+</div>
+
+---
+
+# 📡 Developer Status
+
+```text
+┌──────────────────────────────────────────────┐
+│              SYSTEM STATUS                   │
+├──────────────────────────────────────────────┤
+│                                              │
+│  Developer       : Sourasish Samadder        │
+│  Mode            : BUILDING                  │
+│  Primary Stack   : MERN                      │
+│  Exploring       : AI / ML / Data Science   │
+│  Problem Solving : DSA                       │
+│  Deployment      : Cloud                     │
+│  Learning        : ALWAYS ON                 │
+│                                              │
+│  STATUS          : ONLINE                    │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+# 🧠 Current Focus
+
+```text
+[████████████████████░░] Full-Stack Development
+
+[██████████████████░░░░] Machine Learning
+
+[█████████████████░░░░░] Data Structures & Algorithms
+
+[███████████████░░░░░░░] System Design
+
+[██████████████░░░░░░░░] Cloud & Deployment
+```
+
+---
+
+# 🔬 Engineering Interests
+
+```yaml
+interests:
+  - Artificial Intelligence
+  - Machine Learning
+  - Full-Stack Engineering
+  - Data Science
+  - Scalable Web Applications
+  - System Design
+  - API Architecture
+  - Developer Experience
+  - Interactive UI
+  - Emerging Technologies
+```
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+`Machine Learning`  
+`Advanced Java`  
+`Data Structures & Algorithms`  
+`System Design`  
+`Data Science`  
+`Full-Stack Architecture`  
+`Cloud Technologies`
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://sourasish-samadder.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/sourasish-samadder-48b61432a/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:samaddersourasish2006@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# 🚀 My Portfolio
+
+<div align="center">
 
 <a href="https://sourasish-samadder.vercel.app/">
 
-<img src="https://img.shields.io/badge/🚀_sourasish--samadder.vercel.app-Visit_Now-3B82F6?style=for-the-badge" alt="Visit Portfolio"/>
+<img src="https://img.shields.io/badge/████_EXPLORE_THE_FULL_EXPERIENCE_████-111827?style=for-the-badge&labelColor=3B82F6" />
 
 </a>
 
-</p>
+### **sourasish-samadder.vercel.app**
 
-<p align="center">
-  <i>Thanks for visiting! Let's build something great together. 🚀</i>
-</p>
+**Interactive Portfolio • Projects • Skills • Developer Journey**
+
+</div>
+
+---
+
+# 💭 Developer Philosophy
+
+<div align="center">
+
+```text
+             BUILD.
+               ↓
+             BREAK.
+               ↓
+             DEBUG.
+               ↓
+             LEARN.
+               ↓
+            IMPROVE.
+               ↓
+             REBUILD.
+```
+
+### `Turning ideas into systems.`
+### `Turning problems into solutions.`
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ `Code. Create. Iterate.`
+
+**Thanks for visiting my profile.**
+
+<a href="https://sourasish-samadder.vercel.app/">
+**→ Explore My Portfolio**
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:6366F1&height=100&section=footer" />
+
+</div>
